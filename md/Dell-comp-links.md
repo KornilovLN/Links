@@ -4,4 +4,4 @@
 ### 2. [Dell Precision 7740 Service Manual](https://dl.dell.com/content/manual34342314-dell-precision-7740-service-manual.pdf?language=en-us)
 ### 3. [Dell Precision 7740 Setup and specifications guide](https://dl.dell.com/content/manual35449530-dell-precision-7740-setup-and-specifications-guide.pdf?language=en-us)
 ### 4. [Dell Precision 7740 /17.3"/intel core i7-9850H/RAM 32 ГБ/256 SSD/RTX 3000/FullHD/IPS/БВ](https://tehnowest.com.ua/dell-precision-7740-17.3-intel-core-i7-9850h-ram-32-hb-256-ssd-rtx-3000-fullhd-ips-bu/)
-
+### 5. [32ЯДРА+64GB станція графіки - монтажу ПК](https://agabit.com.ua/ua/p1846473443-vlast-yadra64-ozu.html?source=merchant_center&gad_source=1&gclid=Cj0KCQjw-e6-BhDmARIsAOxxlxXXWfgFbRX7uL5DUkljAp4AxHCRpsaQFsz08I8EVEh2T72QNCHIw4YaAtV6EALw_wcB)
